@@ -67,6 +67,6 @@ Rapid request bursts trigger an automated 5-minute IP quarantine.
 ### 5. SafeLine Monitoring Dashboard
 Aggregated attack analytics, unique visitors, blocked request spikes, and threat telemetry.
 
-<img width="1024" height="768" alt="⁠01-dashboard-analytics png⁠" src="https://github.com/user-attachments/assets/1261d0a9-454f-4eab-9f9c-e70a1c335040" />
+<img width="1600" height="780" alt="⁠01-dashboard-analytics png⁠" src="https://github.com/user-attachments/assets/1261d0a9-454f-4eab-9f9c-e70a1c335040" />
 
 
