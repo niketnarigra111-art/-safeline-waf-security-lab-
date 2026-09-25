@@ -44,8 +44,7 @@ SafeLine terminates TLS on port 443 and forwards traffic to the backend DVWA ins
 
 | Vulnerable: Direct Backend Access (Port 8080) | Protected: Intercepted by SafeLine (Port 443) |
 |:---:|:---:|
-| <img width="1600" height="780" alt="⁠05-sqli-unprotected png⁠" src="https://github.com/user-attachments/assets/b07e171e-b475-40b2-9125-4506863a29c2" />
- |  |
+| <img width="1600" height="780" alt="⁠05-sqli-unprotected png⁠" src="https://github.com/user-attachments/assets/b07e171e-b475-40b2-9125-4506863a29c2" /> |<img width="1475" height="720" alt="06-sqli-waf-blocked png⁠" src="https://github.com/user-attachments/assets/ea0aa370-22d4-447b-8f51-facdfb97768c" />|
 
 ---
 
