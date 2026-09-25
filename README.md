@@ -61,7 +61,7 @@ Rapid request bursts trigger an automated 5-minute IP quarantine.
 
 | Client Auth Challenge | Admin Approval Modal | Custom Blacklist Hit Log |
 |:---:|:---:|:---:|
-| <img width="1600" height="780" alt="10-auth-client-blocked png" src="https://github.com/user-attachments/assets/3eab9441-e56d-45c1-bd19-a06c221062bb" /> | <img width="1024" height="768" alt="11-auth-admin-approval png" src="https://github.com/user-attachments/assets/8ce635a8-7438-4c8f-9fc0-9a7ec7b8ea76" /> | <img width="1024" height="768" alt="13-blacklist-telemetry png" src="https://github.com/user-attachments/assets/58828207-e21a-4a4e-904c-cb1d87e9a1db" /> |
+| <img width="900" height="780" alt="10-auth-client-blocked png" src="https://github.com/user-attachments/assets/3eab9441-e56d-45c1-bd19-a06c221062bb" /> | <img width="900" height="780" alt="11-auth-admin-approval png" src="https://github.com/user-attachments/assets/8ce635a8-7438-4c8f-9fc0-9a7ec7b8ea76" /> | <img width="900" height="780" alt="13-blacklist-telemetry png" src="https://github.com/user-attachments/assets/58828207-e21a-4a4e-904c-cb1d87e9a1db" /> |
 
 
 ### 5. SafeLine Monitoring Dashboard
