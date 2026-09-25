@@ -68,3 +68,4 @@ Rapid request bursts trigger an automated 5-minute IP quarantine.
 Aggregated attack analytics, unique visitors, blocked request spikes, and threat telemetry.
 
 ![SafeLine Dashboard](images/01-dashboard-analytics.png.JPG)
+
