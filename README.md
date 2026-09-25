@@ -1,4 +1,4 @@
-<img width="1024" height="768" alt="03-openssl-generation png⁠" src="https://github.com/user-attachments/assets/88ef885d-1f3d-4568-808f-697e90a54c6f" />
+
 # SafeLine Web Application Firewall (WAF) Home Lab
 
 ## What I Built
