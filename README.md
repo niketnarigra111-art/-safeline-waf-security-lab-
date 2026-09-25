@@ -53,7 +53,7 @@ Rapid request bursts trigger an automated 5-minute IP quarantine.
 
 | Client Lockout Screen | SafeLine Event Telemetry Log |
 |:---:|:---:|
-| <img width="1600" height="780" alt="07-ratelimit-lockout png⁠" src="https://github.com/user-attachments/assets/176ebc43-c8da-4a6a-ace1-c06b08ced2b3" />| <img width="1024" height="768" alt="⁠08-ratelimit-waf-log png" src="https://github.com/user-attachments/assets/3d1bf683-0f7d-4a8a-a4ca-200cdc3cb47a" />|
+| <img width="1600" height="780" alt="07-ratelimit-lockout png⁠" src="https://github.com/user-attachments/assets/176ebc43-c8da-4a6a-ace1-c06b08ced2b3" />| <img width="1475" height="720" alt="⁠08-ratelimit-waf-log png" src="https://github.com/user-attachments/assets/3d1bf683-0f7d-4a8a-a4ca-200cdc3cb47a" />|
 
 ---
 ### 4. Zero-Trust Access Gating & IP Blacklisting
