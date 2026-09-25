@@ -33,7 +33,7 @@ SafeLine terminates TLS on port 443 and forwards traffic to the backend DVWA ins
 
 | OpenSSL Certificate Generation | SafeLine Upstream Configuration |
 |:---:|:---:|
-| ![OpenSSL](images/03-openssl-generation.png) | ![Reverse Proxy Config](images/04-reverse-proxy-config.png) |
+| ![OpenSSL](images/03-openssl-generation.png.JPG) | ![Reverse Proxy Config](images/04-reverse-proxy-config.png.JPG) |
 
 ---
 
@@ -43,7 +43,7 @@ SafeLine terminates TLS on port 443 and forwards traffic to the backend DVWA ins
 
 | Vulnerable: Direct Backend Access (Port 8080) | Protected: Intercepted by SafeLine (Port 443) |
 |:---:|:---:|
-| ![SQLi Unprotected](images/05-sqli-unprotected.png) | ![SQLi Blocked](images/06-sqli-waf-blocked.png) |
+| ![SQLi Unprotected](images/05-sqli-unprotected.png.JPG) | ![SQLi Blocked](images/06-sqli-waf-blocked.png.JPG) |
 
 ---
 
@@ -52,7 +52,7 @@ Rapid request bursts trigger an automated 5-minute IP quarantine.
 
 | Client Lockout Screen | SafeLine Event Telemetry Log |
 |:---:|:---:|
-| ![Rate Limit Lockout](images/07-ratelimit-lockout.png) | ![Rate Limit Log](images/08-ratelimit-waf-log.png) |
+| ![Rate Limit Lockout](images/07-ratelimit-lockout.png.JPG) | ![Rate Limit Log](images/08-ratelimit-waf-log.png.JPG) |
 
 ---
 
@@ -60,11 +60,11 @@ Rapid request bursts trigger an automated 5-minute IP quarantine.
 
 | Client Auth Challenge | Admin Approval Modal | Custom Blacklist Hit Log |
 |:---:|:---:|:---:|
-| ![Client Blocked](images/10-auth-client-blocked.png) | ![Admin Modal](images/11-auth-admin-approval.png) | ![Blacklist Telemetry](images/13-blacklist-telemetry.png) |
+| ![Client Blocked](images/10-auth-client-blocked.png.JPG) | ![Admin Modal](images/11-auth-admin-approval.png.JPG) | ![Blacklist Telemetry](images/13-blacklist-telemetry.png.JPG) |
 
 ---
 
 ### 5. SafeLine Monitoring Dashboard
 Aggregated attack analytics, unique visitors, blocked request spikes, and threat telemetry.
 
-![SafeLine Dashboard](images/01-dashboard-analytics.png)
+![SafeLine Dashboard](images/01-dashboard-analytics.png.JPG)
