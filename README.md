@@ -34,7 +34,7 @@ SafeLine terminates TLS on port 443 and forwards traffic to the backend DVWA ins
 
 | OpenSSL Certificate Generation | SafeLine Upstream Configuration |
 |:---:|:---:|
-| https://github.com/niketnarigra111-art/-safeline-waf-security-lab-/blob/main/images/03-openssl-generation.png%E2%81%A0.JPG![Reverse Proxy Config](images/04-reverse-proxy-config.png.JPG) |
+
 
 ---
 
@@ -44,7 +44,8 @@ SafeLine terminates TLS on port 443 and forwards traffic to the backend DVWA ins
 
 | Vulnerable: Direct Backend Access (Port 8080) | Protected: Intercepted by SafeLine (Port 443) |
 |:---:|:---:|
-| ![SQLi Unprotected](images/05-sqli-unprotected.png.JPG) | ![SQLi Blocked](images/06-sqli-waf-blocked.png.JPG) |
+| <img width="1600" height="780" alt="⁠05-sqli-unprotected png⁠" src="https://github.com/user-attachments/assets/b07e171e-b475-40b2-9125-4506863a29c2" />
+ |  |
 
 ---
 
@@ -57,7 +58,8 @@ Rapid request bursts trigger an automated 5-minute IP quarantine.
 
 ---
 
-### 4. Zero-Trust Access Gating & IP Blacklisting
+### 4. Zero-Trust Access Gating & IP Blacklisting<img width="1475" height="720" alt="06-sqli-waf-blocked png⁠" src="https://github.com/user-attachments/assets/e5e7a4be-4201-4a2f-bd29-ac79d140683a" />
+
 
 | Client Auth Challenge | Admin Approval Modal | Custom Blacklist Hit Log |
 |:---:|:---:|:---:|
