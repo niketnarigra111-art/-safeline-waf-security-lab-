@@ -33,7 +33,7 @@ SafeLine terminates TLS on port 443 and forwards traffic to the backend DVWA ins
 
 | OpenSSL Certificate Generation | SafeLine Upstream Configuration |
 |:---:|:---:|
-| ![OpenSSL](images/03-openssl-generation.png.JPG) | ![Reverse Proxy Config](images/04-reverse-proxy-config.png.JPG) |
+| ![OpenSSL](03-openssl-generation.png.JPG) | ![Reverse Proxy Config](images/04-reverse-proxy-config.png.JPG) |
 
 ---
 
