@@ -69,4 +69,19 @@ Aggregated attack analytics, unique visitors, blocked request spikes, and threat
 
 <img width="1600" height="780" alt="⁠01-dashboard-analytics png⁠" src="https://github.com/user-attachments/assets/1261d0a9-454f-4eab-9f9c-e70a1c335040" />
 
+---
+
+## 📚 References & Acknowledgments
+
+* **Tutorial & Project Guide:** 
+  * [EASY CYBERSECURITY Home Lab to get you HIRED - SafeLine Web Application Firewall](https://youtu.be/N0dEC1nuWCQ) by *The Social Dork | Cyber Security*
+* **Security Technologies & Documentation:**
+  * [SafeLine WAF Documentation](https://waf-ce.chaitin.cn/en/) - Chaitin SafeLine Community Edition architecture, reverse proxy setup, and rule configurations
+  * [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA) - Vulnerable PHP/MySQL web application for offensive and defensive security exercises
+  * [OWASP Top 10: A03:2021 – Injection](https://owasp.org/Top10/A03_2021-Injection/) - Industry vulnerability classification and mitigation standards for SQL Injection (SQLi)
+* **Underlying Platforms:**
+  * [Oracle VM VirtualBox](https://www.virtualbox.org/) - Hypervisor and virtual networking
+  * [Kali Linux](https://www.kali.org/) - Penetration testing distribution
+  * [Ubuntu Server](https://ubuntu.com/server) - Host OS for Apache2, PHP, MySQL, and SafeLine Docker containers
+  * [OpenSSL](https://www.openssl.org/) - Cryptographic toolkit for X.509 certificate generation
 
